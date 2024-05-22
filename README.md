@@ -1,2 +1,2 @@
 # Python Portfolio
-e
+CCC student // Introduction to Python
